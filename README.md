@@ -1,5 +1,4 @@
-[![Release](https://jitpack.io/v/mobjex/fineract-cn-mariadb.svg)]
-(https://jitpack.io/#mobjex/fineract-cn-mariadb)
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-mariadb.svg)](https://jitpack.io/#mobjex/fineract-cn-mariadb)
 
 # Apache Fineract CN MariaDB
 
